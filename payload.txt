@@ -1,0 +1,1 @@
+GAP-005 synthetic Git fixture. No personal data, credentials, or executable code.
